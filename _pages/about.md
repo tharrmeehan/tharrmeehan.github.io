@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist
+subtitle: Data Nerd
 profile:
   align: right
   image: prof_pic.jpg
